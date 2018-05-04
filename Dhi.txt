@@ -2,3 +2,6 @@ Dhisigma Solutions Private Limited
 Alphonsa Thomas
 Arya Chandran
 
+
+
+TEST TEXT TO CHECK MERGING OF BRANCHES
